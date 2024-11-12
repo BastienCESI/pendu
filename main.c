@@ -12,7 +12,6 @@ char lettres[2];
 char lettres_essayer[100];
 char noms[100][100];
 int scores[100];
-int test;
 
 int erreur = 0;
 int tentative_max = 8;
